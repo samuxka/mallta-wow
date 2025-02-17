@@ -1,0 +1,21 @@
+{
+    "players": [
+        {
+            "qtd": 15486
+        }
+    ],
+    "server": [
+        {
+            "XP Rate": "3x"
+        },
+        {
+            "Drop Rate": "1x"
+        },
+        {
+            "Gold Rate": "1x"
+        },
+        {
+            "Reputation": "1x"
+        }
+    ]
+}
